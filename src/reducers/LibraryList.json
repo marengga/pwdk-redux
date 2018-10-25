@@ -2,31 +2,26 @@
   {
     "id":0,
     "title":"Webpack",
-    "description":"Webpack adalah ...."
+    "description":"Webpack is an open-source JavaScript module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset. Webpack takes modules with dependencies and generates static assets representing those modules"
   },
   {
-    "id":0,
+    "id":1,
     "title":"React",
-    "description":"React adalah ...."
+    "description":"In computing, React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications"
   },
   {
-    "id":0,
+    "id":2,
     "title":"Redux",
-    "description":"Redux adalah ...."
+    "description":"Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark"
   },
   {
-    "id":0,
+    "id":3,
     "title":"React Redux",
-    "description":"React Redux adalah ...."
+    "description":"Official React bindings for Redux. Performant and flexible."
   },
   {
-    "id":0,
+    "id":4,
     "title":"React Native",
-    "description":"React Native adalah ...."
-  },
-  {
-    "id":0,
-    "title":"Reducers",
-    "description":"Reducers adalah ...."
+    "description":"React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI from declarative components."
   }
 ]
