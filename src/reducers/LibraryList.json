@@ -1,0 +1,32 @@
+[
+  {
+    "id":0,
+    "title":"Webpack",
+    "description":"Webpack adalah ...."
+  },
+  {
+    "id":0,
+    "title":"React",
+    "description":"React adalah ...."
+  },
+  {
+    "id":0,
+    "title":"Redux",
+    "description":"Redux adalah ...."
+  },
+  {
+    "id":0,
+    "title":"React Redux",
+    "description":"React Redux adalah ...."
+  },
+  {
+    "id":0,
+    "title":"React Native",
+    "description":"React Native adalah ...."
+  },
+  {
+    "id":0,
+    "title":"Reducers",
+    "description":"Reducers adalah ...."
+  }
+]
